@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+A real-time Chat App
 
 ## Getting Started
 
